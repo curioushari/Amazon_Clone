@@ -1,4 +1,4 @@
-# Amazon Clone Project
+# Amazon  Clone Project
 
 This project is an Amazon clone created using HTML, CSS, and JavaScript. It aims to replicate some of the functionalities and design elements of the Amazon website.
 
