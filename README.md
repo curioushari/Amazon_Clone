@@ -5,6 +5,6 @@ This project is an Amazon clone created using HTML, CSS, and JavaScript. It aims
 
 ## Technologies Used
 
-- HTML: Used for structuring the web pages.
+- HTML:Used for structuring the web pages.
 - CSS: Used for styling and layout.
 - JavaScript: Used for implementing interactivity and dynamic behavior.
